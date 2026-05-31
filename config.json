@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcetch",
+        "uuid": 4952360,
+        "checksum": "0konce"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
